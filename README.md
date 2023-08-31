@@ -1,16 +1,5 @@
-# sliver_app_bar
+Example to Sliver AppBar and Sliver List
+![Screen_recording_20230830_172353](https://github.com/kei-kusanagi/SliverAppBar_and_SliverList/assets/93227096/7325ed32-80d5-438a-83d4-bfeb07d56c85)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Example to edit Scrollbar
+![Screen_recording_20230830_174337](https://github.com/kei-kusanagi/SliverAppBar_and_SliverList/assets/93227096/e1a4b5a5-2474-4588-98db-c81bcc449bb1)
